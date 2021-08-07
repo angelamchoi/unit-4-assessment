@@ -41,3 +41,7 @@ function CircleSelector(props) {
 }
 
 export default CircleSelector;
+
+//Notes
+//1. create handle click function
+//2. when a button is clicked then show circle (number) selected

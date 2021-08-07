@@ -13,3 +13,7 @@ function Circles(props) {
 }
 
 export default Circles;
+
+// Notes
+// -- is circle 1 selected?
+// when I click on circle 1, number 1 should be selected
